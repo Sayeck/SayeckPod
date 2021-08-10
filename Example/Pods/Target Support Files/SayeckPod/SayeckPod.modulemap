@@ -1,0 +1,6 @@
+framework module SayeckPod {
+  umbrella header "SayeckPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SayeckPod (0.1.0)
+
+DEPENDENCIES:
+  - SayeckPod (from `../`)
+
+EXTERNAL SOURCES:
+  SayeckPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SayeckPod: a2e16d153fa35b220d89afb2ce3bf74c9f037e74
+
+PODFILE CHECKSUM: e36cf9679204c01510e3904448ba3b98363798e0
+
+COCOAPODS: 1.10.1

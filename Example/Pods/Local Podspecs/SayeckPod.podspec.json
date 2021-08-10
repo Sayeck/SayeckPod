@@ -1,0 +1,22 @@
+{
+  "name": "SayeckPod",
+  "version": "0.1.0",
+  "summary": "A short description of SayeckPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ing.campos.alejandro@gmail.com/SayeckPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ing.campos.alejandro@gmail.com": "ing.campos.alejandro@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ing.campos.alejandro@gmail.com/SayeckPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SayeckPod/Classes/**/*"
+}
